@@ -20,3 +20,4 @@ def show_unlike_interface(screen):
             if event.type == pygame.QUIT:
                 sys.exit()
 # 修改之后
+#

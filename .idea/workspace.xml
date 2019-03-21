@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fec015e2-3fbd-4699-a807-84fcdd5b4b1e" name="Default" comment="dev modified lines">
-      <change afterPath="$PROJECT_DIR$/Yaml/new.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_add.js" beforeDir="false" afterPath="$PROJECT_DIR$/new_add.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +20,11 @@
     <leaf>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="677">
+              <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -85,26 +89,6 @@
             <path>
               <item name="jumpserver_dev_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="jumpserver_dev_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jumpserver_dev_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jumpserver_dev_1" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jumpserver_dev_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jumpserver_dev_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jumpserver_dev_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jumpserver_dev_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jumpserver_dev_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jumpserver_dev_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Plugin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -554,13 +538,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/new_add.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="311">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
